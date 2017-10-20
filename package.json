@@ -1,0 +1,19 @@
+{
+  "name": "api-node-cassandra",
+  "version": "1.0.0",
+  "description": "api usando nodejs e cassandra",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanatiel90/api-node-cassandra.git"
+  },
+  "author": "sanatiel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanatiel90/api-node-cassandra/issues"
+  },
+  "homepage": "https://github.com/sanatiel90/api-node-cassandra#readme"
+}
